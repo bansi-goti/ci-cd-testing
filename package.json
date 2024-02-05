@@ -1,6 +1,6 @@
 {
   "name": "github_actions",
-  "homepage": "https://bansi-goti.github.io/ci-cd-testing",
+  "homepage": "https://bansi-goti.github.io/ci-cd-testing/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
