@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          BANSI
+          BANSI1
         </a>
       </header>
     </div>
